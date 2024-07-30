@@ -1,4 +1,4 @@
-# ProdctMetaphor Dataset
+# ProductMetaphor Dataset
 
 ## Overview
 
