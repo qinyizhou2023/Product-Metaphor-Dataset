@@ -1,0 +1,16 @@
+image_path, name, target, source, way_of_connection, connection, way_of_mapping, mapping_strategy, detail_mapping
+1.png, Firephant,fire extinguisher,elephant,function, elephant's trunk spraying water functions like fire worker sprying the fire extinguisher, form, the exit of the fire hydrant looks like the trunk of an elephant,name
+2.png, Luna Rug, rug, Moon, context, Moon's surface as a rug contextually allows walking on the moon, form, The rug's texture and color gradient looks like the surface of the moon, texture & color
+3.png, NS Camera, security camera, Lovable character, context, lovely character create a friendly and non-threatening presence of camera, form, The camera's cover looks like a helmet, color
+4.png, Surveillance Chandelier, chandelier, security camera, context, Security cameras are everywhere just like chandelier, form, The spotlights look like security cameras, texture & color
+5.png, VD 003 Bike Rack, bike rack, car, context, encourag a shift from cars to bicycles, form, The bike rack looks like the outline of a car, color
+6.png,  Pianobell Door Bell, Door Bell, Piano Keys, interaction, Pressing the doorbell keys interacts like playing piano keys, interaction, Pressing the doorbell keys interacts like playing piano keys, color & form
+7.png,  Awakening Lamp, Lamp, Human, context, The lamp lights up when someone is in the room like a human waking up, interaction, The lamp lights up and lies down interacts like a human waking up and sleeping, movement
+8.png, Ctrl+O Bottle Opener, Bottle Opener, Keyboard Shortcut, context, Ctrl+O command opens a document like the bottle opener opens a bottle, texture, the texture of bottle opener look like Ctrl+O, name
+9.png,  Datenschutz USB Stick, USB Stick, Padlock, function, Padlock secures items functions like USB stick secures data, form, USB stick's structure is like a padlock, shape
+10.png, Mary Biscuit Box, Biscuit Box, Biscuit, context, The box looks like a biscuit container like it contains biscuits, smell, the box smells like a biscuit, null
+11.png,Garlic Press, garlic press, garlic, context, the garlic have relation with garlic press, form,  The garlic press structure has a relation with the shape of a garlic bulb, structure
+12.png,Kastor Pencil Sharpener, pencil sharpener, beaver, function, The beaver gnawing on wood functions like a pencil sharpener sharpening a pencil, form, The pencil sharpener looks like a beaver, texture
+13.png, Homo Sapiens, kitchen tool, potato, context, Potatoes and kitchen tools are often present together in the kitchen, form, The kitchen tool looks like a cut potato, texture
+14.png, business_class_tie_usb.png, Business Class, Tie, USB stick, context, Tie and USB stick are combined for quick and easy data sharing in a business environment, form, The USB stick integrates into the tie, texture
+15.png, Hanger Chair, Folding Chair, Hanger, context, Hanger and folding chair both save space in small areas, interaction, Chair folds and hangs like a hanger, form, color
