@@ -1,6 +1,6 @@
 import csv
 
-# Define a data structure to hold product information
+# Define a images structure to hold product information
 class ProductMetaphor:
     def __init__(self, name, image_path, source, target, link, mapping):
         self.name = name
@@ -28,10 +28,10 @@ def append_to_csv(file_path, product_metaphor):
             'mapping': product_metaphor.mapping
         })
 
-# Example new data entry
+# Example new images entry
 new_product_metaphor = ProductMetaphor(
     name="Firephant fire extinguisher",
-    image_path="/mnt/data/e5e52971-6cd6-4f6e-87ec-2ae914a67910.png",
+    image_path="/mnt/images/e5e52971-6cd6-4f6e-87ec-2ae914a67910.png",
     source="elephant",
     target="fire extinguisher",
     link="Elephants are known to spray water out of their trunks in a skillful manner",
