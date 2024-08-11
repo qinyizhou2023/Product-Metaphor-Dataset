@@ -10,20 +10,16 @@ We introduce a dataset of extended metaphors for product design.
 
 ### [product_metaphor_list](product_metaphor_list.csv)
  150 product metaphors that consist of XXX:
+* image_path: the product's image
 * name: the products' name
-* image_path: 
-* target:
-* source:
-* connection_attribute:
-  * Form
-  * 
-* connection_description: XXX is just like XXX
-* mapping_attribute:
-  * Form partly
-  * Form fully
-  * Function
-  * Interaction
-* connection_description: XXX is just like XXX
+* target: the target product
+* source: the source product
+* way of connection: The connection between the source with the target, including:
+![img_1.png](img_1.png)
+* connection: A scentence conveying the connection between the target and source
+* way of mapping: the mapping attribute ( choose from: form, function, interaction)
+* detail mapping: other properties that help to forster the metaphor expression
+  ![img_2.png](img_2.png)
 
 ### GPT_result
 
