@@ -6,6 +6,7 @@ We introduce a dataset of extended metaphors for product design.
 
 * The labels for metaphors were collected from websites and papers about metaphorical product design, the sources are mainly from Product design studio, Pinterest. 
 * The descriptions of the connection and the mapping method are based on the official introduction of the design on the website.
+* 2 professional product designers annotate the way of connection and the way of mapping.
 * We conducted a comprehensive evaluation of state-of-the-art zero-shot GPT-4 models on metaphor understanding tasks based on 80 classical metaphorical product design images.
 * The result shows that...
 
