@@ -4,22 +4,39 @@
 
 We introduce a dataset of extended metaphors for product design.
 
-* The labels for metaphors were collected from websites and papers about metaphorical product design, considering: 1) TARGET-SOURCE pairs, 2) mapping strategies, and 3) meaning. 
+* The labels for metaphors were collected from websites and papers about metaphorical product design, the sources are mainly from Product design studio, Pinterest. 
+* The descriptions of the connection and the mapping method are based on the official introduction of the design on the website.
 * We conducted a comprehensive evaluation of state-of-the-art zero-shot GPT-4 models on metaphor understanding tasks based on 80 classical metaphorical product design images.
 * The result shows that...
 
-### [product_metaphor_list](product_metaphor_list.csv)
+### [product_metaphor_list](product_metaphor_list_3level.csv)
  150 product metaphors that consist of XXX:
 * image_path: the product's image
 * name: the products' name
 * target: the target product
 * source: the source product
 * way of connection: The connection between the source with the target, including:
-![img_1.png](img_1.png)
-* connection: A scentence conveying the connection between the target and source
+  1. visceral：视觉形态（Visual Similarity）引起用户情感 (User Emotion)   through similarity between the shape, color, structure--it  can evoke a special emotion immediately for users.
+     * connection Format: 
+          B visually resembles A, evokes [specific emotion or feeling] in [A's target users]
+          B is as adj. as A
+  2. 行为层 behavioral：Through similarity between interaction, function and behavior, the source can make the target usable or increase its utility. Think about: how users use this product and how to think about more 
+     * connection Format: 
+          Both B and A + verb. + adv. / in a similar manner; 
+          [B +  verb. ] like [A + verb.];
+          Both B and A allow for [specific interaction] similarly ; [Interacting with B] interacts/ behaves like [interacting with A]
+  3. 反思层 reflective：The adding of source might influence the usage conetxt of the product and transfer the meaning of using it, promoting/symbolizing a new meaning for using it. 
+     * connection Format: 
+     - B is inspired by [legend/ story]
+     - Both B and A symbolize/ associate with [specific cultural meaning]
+     - B creates a + adj. experience in + [specific using environment] 
+     - B symbolizes/promotes [concept/thoughts] for A/ as using A
+     - B  transform [A's usage experience] into a [new experience].
+
 * way of mapping: the mapping attribute ( choose from: form, function, interaction)
+ ![img_3.png](img_3.png)
 * detail mapping: other properties that help to forster the metaphor expression
-  ![img_2.png](img_2.png)
+
 
 ### GPT_result
 
