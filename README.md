@@ -3,13 +3,13 @@
 ## Overview
 To gain a deeper understanding of the design patterns and methods employed in each phase of metaphorical design, particularly how designers identify sources and develop mapping strategies, we conducted an extensive analysis of metaphorical product design cases. Our dataset comprises 150 examples of metaphorical product designs collected from the official websites of prominent design companies like Alessi and Nendo, as well as from design competitions and platforms such as Red Dot Design and Pinterest. The focus is on home accessories that exemplify the use of product metaphors.
 
-This dataset introduces a collection of extended metaphors in product design:
+This dataset introduces:
 
 - **Data Collection:** Metaphor labels were gathered from websites and academic papers focused on metaphorical product design, with primary sources including product design studios and Pinterest.
 - **Product Categories:** The products fall under the criteria of being small in size, simple in function, widely available, and possessing significant design potential. All products analyzed belong to the 164 categories listed in Amazon's household section. For each product, we collected (1) a design image, with multiple images included when necessary to convey behavioral-level connections, and (2) the official product description from original websites.
 - **Annotation:** Two professional product designers annotated the ways of connection and mapping methods.
 - **Descriptions:** The connection and mapping descriptions are based on the official product introductions available on their respective websites.
-- **Evaluation:** We conducted a comprehensive evaluation of state-of-the-art zero-shot GPT-4 models on metaphor understanding tasks using 150 classical metaphorical product design images, with the results showing that...
+- **GPT-4o Evaluation:** We conducted a comprehensive evaluation of state-of-the-art zero-shot GPT-4 models on metaphor understanding tasks using 150 classical metaphorical product design images, with the results showing that...
 
 ### [product_metaphor_list](product_metaphor_list_3level.csv)
 The dataset contains 150 product metaphors with the following attributes:
