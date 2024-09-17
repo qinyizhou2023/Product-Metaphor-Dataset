@@ -17,7 +17,7 @@ The dataset contains 150 product metaphors with the following attributes:
 - **name:** The product's name.
 - **target:** The target product.
 - **source:** The source product.
-- **way_of_connection:** The type of connection between the source and the target, categorized into:
+- **way_of_connection:** The type of connection between the source and the target, categorized into (A=Target; B=Source):
   1. **Visceral:** Based on similarity in shape, color, or structure, evoking an immediate emotional response from users.
      - **Connection Format:** 
        - "B visually resembles A, evoking [specific emotion or feeling] in [A's target users]."
