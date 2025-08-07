@@ -19,7 +19,7 @@ The dataset contains 150 product metaphors with the following attributes:
 - **name:** The product's name.
 - **target:** The target.
 - **source:** The source.
-- **way_of_connection:** The type of connection between the source and the target, categorized into categorized into (refer to)[^1]::
+- **way_of_connection:** The type of connection between the source and the target, categorized into categorized into (refer to[^1])::
   1. **Visceral:** Based on similarity in shape, color, or structure, evoking an immediate emotional response from users.
      - **Connection Format:** 
        - "B visually resembles A, evoking [specific emotion or feeling] in [A's target users]."
@@ -59,6 +59,8 @@ The dataset contains 150 product metaphors with the following attributes:
 
 ```
 Qinyi Zhou, Jie Deng, Yu Liu, Yun Wang, Yan Xia, Yang Ou, Zhicong Lu, Sai Ma, Scarlett Li, and Yingqing Xu. 2025. ProductMeta: An Interactive System for Metaphorical Product Design Ideation with Multimodal Large Language Models. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 428, 1–24. https://doi.org/10.1145/3706598.3713935```
+
+```
 
 ```
 @inproceedings{10.1145/3706598.3713935,
