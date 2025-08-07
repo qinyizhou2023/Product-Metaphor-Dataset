@@ -6,7 +6,7 @@ To gain a deeper understanding of the design patterns and methods employed in ea
 This dataset introduces a collection of extended metaphors in product design:
 
 - **Data Collection:** Metaphor examples were gathered from websites and academic papers focused on metaphorical product design.
-- **Product Categories:** The products fall under the criteria of being small in size, simple in function, widely available, and possessing significant design potential. All products analyzed belong to the 164 categories listed in Amazon's household section. For each product, we collected (1) a design image, with multiple images included when necessary to convey behavioral-level connections, and (2) the official product description from original websites.
+- **Product Categories:** The products fall under the criteria of being small in size, simple in function, widely available, and possessing significant design potential. All products analyzed belong to the 164 categories listed in Amazon's household section. For each product, we collected the official product description from the original websites.
 - **Annotation:** Two professional product designers annotated the ways of connection and mapping methods.
 - **Descriptions:** The connection and mapping descriptions are based on the official product introductions available on their respective websites.
 
